@@ -7,6 +7,7 @@ import Food from "@/components/Food";
 import Clothing from "@/components/Clothing";
 import Attractions from "@/components/Attractions";
 import Hotels from "@/components/Hotels";
+import Pools from "@/components/Pools";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -21,6 +22,7 @@ const Index = () => {
       <Clothing />
       <Attractions />
       <Hotels />
+      <Pools />
       <Footer />
     </main>
   );
