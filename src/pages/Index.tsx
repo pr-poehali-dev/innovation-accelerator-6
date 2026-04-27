@@ -4,6 +4,7 @@ import Featured from "@/components/Featured";
 import Promo from "@/components/Promo";
 import Books from "@/components/Books";
 import Food from "@/components/Food";
+import Clothing from "@/components/Clothing";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
       <Promo />
       <Books />
       <Food />
+      <Clothing />
       <Footer />
     </main>
   );
